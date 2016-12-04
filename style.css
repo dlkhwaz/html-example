@@ -1,0 +1,106 @@
+body {
+  background-color: #eee;
+}
+
+.learn{
+  text-align: center;
+}
+
+.wrapper {
+  width: 400px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+}
+#cat {
+  border: 1px solid #00BCE1;
+  background: #fff;
+  color: #00BCE1;
+  width: 85%;
+  height: 40px;
+  margin: 1px 40px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 1em;
+  font-family: sans-serif;
+  padding-top: 20px;
+  margin-left: 30px;
+}
+#signin {
+  border: 1px solid #00BCE1;
+  background: #00BCE1;
+  color: #fff;
+  width: 85%;
+  height:40px;
+  margin: 2px 40px;
+  display: block;
+  font-size: 1em;
+  font-weight: bolder;
+  font-family: sans-serif;
+  margin-left: 30px;
+
+}
+#passemail {
+  border: 1px solid #ccc;
+  background: #FFFFFF;
+  width: 85%;
+  height: 40px;
+  display:block;
+  margin-left: 30px;
+  font-size: 1em;
+}
+  #forget {
+  color: #00BCE1;
+  text-decoration: none;
+  float: right;
+  margin-right: 30px;
+}
+
+h1,h2,h3,h4 {
+text-align-last: 40px;
+color: #606060;
+font-family: sans-serif;
+font-size: 1em;
+margin-left: 30px;
+}
+.footer  {
+  width: auto;
+  background: #fff;
+  text-align: center;
+
+}
+.title {
+  text-align: center;
+  margin-left: 30px;
+}
+table {
+  display:inline-block;
+  margin-left: 30px;
+}
+th{
+  border: 0px;
+  width: 400px;
+  color: #606060;
+}
+th a {
+  color: #606060;
+}
+a {
+  color: #00BCE1;
+  text-decoration: none;
+}
+a:hover{
+  color: #282828;
+}
+#signin:hover {
+  background: #1C5D9E;
+}
+#cat:hover {
+  background: #B5FFFF;
+}
+#wrapper{
+  width: 600px;
+  margin:0 auto;
+}
